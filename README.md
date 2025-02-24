@@ -17,7 +17,9 @@
   <!--Gmail-->
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <!--Notion-->
+  <a href="https://www.notion.so/Subin-s-Notion-1680a2541eaa809f87c7c3545e2693fe?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    </a>
   <br/>
   <br/>
 
